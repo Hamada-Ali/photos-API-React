@@ -1,0 +1,22 @@
+.form-container {
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form-container form label {
+    color: #222;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.form-container form input {
+    padding: 5px 10px;
+}
